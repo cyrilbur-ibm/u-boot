@@ -489,8 +489,6 @@ restart:
 			goto done;
 		}
 
-		ArpTimeoutCheck();
-
 		/*
 		 *	Check for a timeout, and run the timeout handler
 		 *	if we have one.
