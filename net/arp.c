@@ -7,7 +7,7 @@
  *	Copyright 2000 Paolo Scaffardi
  *	Copyright 2000-2002 Wolfgang Denk, wd@denx.de
  */
-
+#define DEBUG
 #include <common.h>
 
 #include "arp.h"
